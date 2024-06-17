@@ -131,3 +131,9 @@ dist
 
 package-lock.json
 .DS_Store
+
+package-lock.json
+.DS_Store
+javascript/package-lock.json
+typescript/package-lock.json
+node_modules

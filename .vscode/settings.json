@@ -1,9 +1,9 @@
 {
-  "jest.outputConfig": {
-    "revealOn": "run",
-    "revealWithFocus": "test-results",
-    "clearOnRun": "none"
-  }
-  // "jest.jestCommandLine": "npm run test --",
-  // "jest.rootPath": "typescript/tests"
+	"jest.outputConfig": {
+		"revealOn": "run",
+		"revealWithFocus": "test-results",
+		"clearOnRun": "none"
+	}
+	// "jest.jestCommandLine": "npm run test --",
+	// "jest.rootPath": "typescript/tests"
 }
