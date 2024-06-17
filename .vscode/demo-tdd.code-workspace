@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "path": ".."
+    },
+    {
+      "name": "javascript",
+      "path": "../javascript"
+    },
+    {
+      "name": "typescript",
+      "path": "../typescript"
+    }
+  ],
+  "settings": {
+    "jest.outputConfig": {
+      "revealOn": "run",
+      "revealWithFocus": "test-results",
+      "clearOnRun": "none"
+    },
+    "jest.disabledWorkspaceFolders": ["demo-tdd"]
+  }
+}
