@@ -24,3 +24,11 @@ function getTotalPrice() {
 function clearCart() {
   cart = [];
 }
+
+module.exports = {
+  addToCart,
+  removeFromCart,
+  getTotalPrice,
+  clearCart,
+  showCart,
+};
